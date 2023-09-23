@@ -1,6 +1,7 @@
 import Title from './Title';
 import Description from './Description';
 import Banner from './Banner';
+import Banner2 from './Banner2';
 import Image from 'next/image'
 import { Anton } from '@next/font/google';
 
@@ -11,15 +12,20 @@ const anton = Anton({
 
 export default function Home() {
   return (
-    <main className="bg-[#F1718A] h-screen">
-      <div>
-        <Banner/>
-      </div>
-      <div className={anton.className}>
-        <Title/>
-      </div>
-      <div>
-        <Description/>
+    <main className="h-screen flex-col">
+      <div className="justify-center">
+        <div>
+          <Banner/>
+        </div>
+        <div className={anton.className}>
+          <Title/>
+        </div>
+        <div>
+          <Description/>
+        </div>
+        <div className="">
+          <Banner2/>
+        </div>
       </div>
     </main>
   )

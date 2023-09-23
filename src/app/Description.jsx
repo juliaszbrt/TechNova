@@ -1,6 +1,6 @@
 const Description = () => {
   return (
-    <p className="tracking-[0.5px] mt-[2rem] text-[1rem] text-center text-[#7A2C3B] px-[4rem] leading-[2rem] sm:text-[1.5rem] sm:leading-[3rem]">
+    <p className="tracking-[0.5px] mt-[2rem] sm:mb-[4rem] text-[1rem] text-center text-[#F3683B] px-[4rem] leading-[2rem] sm:text-[1.5rem] sm:leading-[3rem]">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
             sed do eiusmod tempor incididunt ut labore et dolore magna 
             aliqua. Nulla facilisi morbi tempus iaculis urna. Quam lacus 
