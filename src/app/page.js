@@ -1,4 +1,4 @@
-import Title from './Title';
+import Heading from './Heading';
 import Description from './Description';
 import Banner from './Banner';
 import Banner2 from './Banner2';
@@ -18,7 +18,7 @@ export default function Home() {
           <Banner/>
         </div>
         <div className={anton.className}>
-          <Title/>
+          <Heading/>
         </div>
         <div>
           <Description/>
