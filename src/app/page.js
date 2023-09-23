@@ -3,12 +3,6 @@ import Description from './Description';
 import Banner from './Banner';
 import Banner2 from './Banner2';
 import Image from 'next/image'
-// import { Anton } from '@next/font/google';
-
-// const anton = Anton({
-//   subsets: ['latin'],
-//   weight: ['400']
-// })
 
 export default function Home() {
   return (
