@@ -65,9 +65,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Start your crypto journey today with Gøøse, your trusted gateway to the world of blockchain. Welcome to G00SE !!!!
 
 Created by:
-[Julia Szubert](https://www.linkedin.com/in/juliaszubert/) 🐰
-[Maheen Qayyum]([https://www.linkedin.com/in/maheenqayyum/](https://www.linkedin.com/in/maheen-qayyum-178547227/)) 🛹
-[Hala Ali]([https://www.linkedin.com/in/juliaszubert/](https://www.linkedin.com/in/hala-ali-8484a224b/)) ☄️
-[Fatima Rehan]([https://www.linkedin.com/in/juliaszubert/](https://www.linkedin.com/in/fatima-rehan29/)https://www.linkedin.com/in/fatima-rehan29/) 👹
+- [Julia Szubert](https://www.linkedin.com/in/juliaszubert/) 🐰
+- [Maheen Qayyum]([https://www.linkedin.com/in/maheenqayyum/](https://www.linkedin.com/in/maheen-qayyum-178547227/)) 🛹
+- [Hala Ali]([https://www.linkedin.com/in/juliaszubert/](https://www.linkedin.com/in/hala-ali-8484a224b/)) ☄️
+- [Fatima Rehan]([https://www.linkedin.com/in/juliaszubert/](https://www.linkedin.com/in/fatima-rehan29/)https://www.linkedin.com/in/fatima-rehan29/) 👹
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
