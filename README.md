@@ -44,7 +44,7 @@ Gøøse combines the power of Hedera's public network with the versatility of Vo
 
 - **Seamless Integration 🔌**: With Gøøse, you get the best of both worlds: Hedera's robust blockchain technology and Voiceflow's user-friendly chatbot interface.
 
-<img width="1300" alt="Screenshot 2023-09-24 at 7 27 34 AM" src="https://github.com/juliaszbrt/TechNova/assets/119556679/a9c4aa0e-d85b-4de1-b1b8-fa1d879ab76d">
+<img width="1200" alt="Screenshot 2023-09-24 at 7 27 34 AM" src="https://github.com/juliaszbrt/TechNova/assets/119556679/a9c4aa0e-d85b-4de1-b1b8-fa1d879ab76d">
 **An image displaying our Hedera-integrated Voiceflow work !**
 
 ## 📚 Learn and Explore 📚
