@@ -38,11 +38,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## 🦆 What Makes Gøøse Special 🦆
 Gøøse combines the power of Hedera's public network with the versatility of Voiceflow's chatbot to provide you with an unparalleled crypto experience. Here's what you can expect:
 
-- **Simplified Transactions**: Gøøse streamlines the crypto transaction process, ensuring that even newcomers can make their first crypto moves with ease.
+- **Simplified Transactions 💸**: Gøøse streamlines the crypto transaction process, ensuring that even newcomers can make their first crypto moves with ease.
 
-- **Friendly Guidance**: Think of Gøøse as your crypto mentor. It's designed to guide you through the world of blockchain, answer your questions, and provide helpful tips.
+- **Friendly Guidance 🫂**: Think of Gøøse as your crypto mentor. It's designed to guide you through the world of blockchain, answer your questions, and provide helpful tips.
 
-- **Seamless Integration**: With Gøøse, you get the best of both worlds: Hedera's robust blockchain technology and Voiceflow's user-friendly chatbot interface.
+- **Seamless Integration 🔌**: With Gøøse, you get the best of both worlds: Hedera's robust blockchain technology and Voiceflow's user-friendly chatbot interface.
 
 ## 📚 Learn and Explore 📚
 To dive deeper into Gøøse and enhance your crypto knowledge, we recommend the following resources:
@@ -55,10 +55,10 @@ To dive deeper into Gøøse and enhance your crypto knowledge, we recommend the 
 
 - [Voiceflow](https://www.voiceflow.com/docs): Learn more about Voiceflow's chatbot development platform.
 
-# 🤝 Contribute and Connect 🤝
+## 🤝 Contribute and Connect 🤝
 Gøøse is an open-source project, and we welcome your feedback and contributions. Feel free to check out our [GitHub repository](https://github.com/juliaszbrt/TechNova) and join our developer community.
 
-# ☁️ Deploy with Vercel ☁️
+## ☁️ Deploy with Vercel ☁️
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
