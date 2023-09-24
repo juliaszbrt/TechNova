@@ -7,10 +7,10 @@ export default function Home() {
   return (
     <main>
       <div className="my-[3rem] md:my-[4.2rem]">
-        <Banner/>
-        <Heading/>
-        <Description/>
-        <Banner2/>
+        <Banner />
+        <Heading />
+        <Description />
+        <Banner2 />
       </div>
     </main>
   )
